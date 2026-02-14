@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="centre"> Hi I'm Sriram Rayidi</h1>
 <h3 align="centre"> A Passionate Engineer From India</h3>
-🔭 I’m currently working on Payroll System<br>👯 I’m looking to collaborate on Cloud Native Projects<br>🤝 I’m looking for help with Python and HTML,CSS<br>🌱 I’m currently learning Java and Java Script<br>💬 Ask me about Python <br>
+🔭 I’m currently working on Gen AI and Agentic AI<br>👯 I’m looking to collaborate on AI based RAG models and LLM Projects<br>🤝 I’m looking for help with RAG,LLm<br>🌱 I’m currently Agentic AI<br>💬 Ask me about Python<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayidi-sriram-70b529233/) 
