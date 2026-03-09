@@ -16,10 +16,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sriram-448&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Sriram-448?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS)
+![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-SDE_%7C_Full_Stack-2ea44f?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Caffeine](https://img.shields.io/badge/⚡_POWERED_BY-Caffeine-6F4E37?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+[![Hire Me](https://img.shields.io/badge/💼_HIRING%3F-Let's_Talk-a78bfa?style=for-the-badge&labelColor=0d1117)](mailto:sriramrayidi28@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sriramrayidi.vercel.app-a78bfa?style=for-the-badge&labelColor=0d1117)](https://sriramrayidi.vercel.app/)
-
 </div>
 
 ---
@@ -188,6 +191,53 @@ Built an HTTP/HTTPS forward proxy from scratch — no libraries, pure Python soc
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriram-448/Sriram-448/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriram-448/Sriram-448/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sriram-448/Sriram-448/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ <b>Click to set up the snake animation</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Sriram-448
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
 
 ## 📈 Activity Graph
 
@@ -246,7 +296,7 @@ Built an HTTP/HTTPS forward proxy from scratch — no libraries, pure Python soc
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/rayidi-sriram-70b529233/">
+<a href="https://linkedin.com/in/sriramrayidi">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
