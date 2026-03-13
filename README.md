@@ -92,13 +92,13 @@ superpower : Ship production apps that solve real problems
 ### 🏛️ SRMIST Club Portal
 > **Production app · 200+ users · 50+ clubs**
 
-Digitized campus venue booking — replaced chaotic WhatsApp threads with a full-stack platform. Cut booking time by **80%**.
+Digitized campus venue booking - replaced chaotic WhatsApp threads with a full-stack platform. Cut booking time by **80%**.
 
 **Key highlights:**
 - 🔐 RBAC with Supabase Auth (Student / Club Head / Admin)
 - 🛡️ Row Level Security across **9 protected routes**
 - 📅 Admin approval across **6 campus venues**
-- 📱 Fully responsive — iOS, Android, tablet, desktop
+- 📱 Fully responsive - iOS, Android, tablet, desktop
 - 📧 Resend API email notifications + Vercel CI/CD
 
 **Stack:** `Next.js 16` `Supabase` `PostgreSQL` `Vercel` `Resend`
@@ -134,7 +134,7 @@ Full-stack AI chatbot with Groq's 70B parameter model, multi-turn memory, and re
 ### 🌐 HTTP Forward Proxy
 > **Raw sockets · TCP/IP · Multi-threaded**
 
-Built an HTTP/HTTPS forward proxy from scratch — no libraries, pure Python sockets. Deep dive into networking internals.
+Built an HTTP/HTTPS forward proxy from scratch - no libraries, pure Python sockets. Deep dive into networking internals.
 
 **Key highlights:**
 - 🔀 HTTPS CONNECT tunneling
@@ -278,10 +278,10 @@ jobs:
 | 🏅 Achievement | 📅 Year |
 |:---|:---:|
 | 📄 Co-authored & presented at **IEEE ICISS 2025** (7th Int'l Conference, Tirunelveli) | 2025 |
-| 🥈 **4th Place** — HackFusion Hackathon | 2024 |
+| 🥈 **4th Place** - HackFusion Hackathon | 2024 |
 | 🇮🇳 **Smart India Hackathon (SIH)** Participant | 2023 |
 | 🎓 **Oracle ML with Autonomous DB** Certified Associate | 2024 |
-| ☁️ **Cloud Computing** — IIT Kharagpur, NPTEL | 2024 |
+| ☁️ **Cloud Computing** - IIT Kharagpur, NPTEL | 2024 |
 | 🌐 **Cisco** Network Addressing & Basic Troubleshooting | 2024 |
 
 </div>
@@ -310,9 +310,9 @@ jobs:
 
 <br/><br/>
 
-> 💬 *"I don't just write code — I ship products that solve real problems."*
+> 💬 *"I don't just write code - I ship products that solve real problems."*
 >
-> 🟢 **Open to SDE / Full Stack roles** — let's build something great together!
+> 🟢 **Open to SDE / Full Stack roles** - let's build something great together!
 
 </div>
 
