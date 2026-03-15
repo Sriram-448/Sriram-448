@@ -90,7 +90,7 @@ superpower : Ship production apps that solve real problems
 <td width="50%" valign="top">
 
 ### 🏛️ SRMIST Club Portal
-> **Production app · 200+ users · 50+ clubs**
+> **Production app · 20+ users · 10+ clubs**
 
 Digitized campus venue booking - replaced chaotic WhatsApp threads with a full-stack platform. Cut booking time by **80%**.
 
